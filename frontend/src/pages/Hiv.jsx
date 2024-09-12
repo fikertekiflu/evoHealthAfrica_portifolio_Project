@@ -12,11 +12,10 @@ const HIV = () => {
       once: true,
     });
   }, []);
-
-  return (
+return (
     <div className="flex flex-col min-h-screen bg-gray-100">
       {/* Navbar */}
-      <nav className="bg-gradient-to-r from-blue-400 to-indigo-950 text-white p-4 sticky top-0 shadow-lg z-50">
+      <nav className="bg-gradient-to-r  bg-gray-800 text-white p-4 sticky top-0 shadow-lg z-50">
         <div className="container mx-auto flex justify-between items-center">
           <h1 className="text-3xl font-extrabold">HIV Awareness</h1>
           <ul className="flex space-x-6">

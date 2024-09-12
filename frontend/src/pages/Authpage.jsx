@@ -37,11 +37,11 @@ const AuthPage = () => {
   };
 
   return (
-    <div className="flex items-center justify-center h-screen bg-gradient-to-r from-gray-100 to-gray-300">
+    <div className="flex items-center justify-center h-screen bg-gradient-to-r from-blue-400 to-indigo-950">
       <div className="w-full max-w-md bg-white p-8 rounded-2xl shadow-lg transition-transform transform hover:scale-105">
         <div className="text-center mb-8">
-          <h1 className="text-4xl font-extrabold text-gray-800 mb-2">{isSignIn ? 'Sign In' : 'Sign Up'}</h1>
-          <p className="text-gray-600 text-lg">{isSignIn ? 'Welcome back! Please sign in.' : 'Create an account to get started.'}</p>
+          <h1 className="text-4xl font-extrabold text-gray-900 mb-2">{isSignIn ? 'Sign In' : 'Sign Up'}</h1>
+          <p className="text-gray-900 text-lg">{isSignIn ? 'Welcome back! Please sign in.' : 'Create an account to get started.'}</p>
         </div>
 
         <form className="space-y-6" onSubmit={handleSubmit}>
