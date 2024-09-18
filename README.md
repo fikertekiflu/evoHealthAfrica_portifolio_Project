@@ -34,4 +34,22 @@ npm install
 (Optional) Clone the Machine Learning Models:
 The disease prediction models are deployed in a separate repository. To clone and integrate them, follow the steps provided in the ML Model Repo (Insert link to your ML repo here).
 - **repos**: 
-  - [diabete_prediction](#) *(Insert your LinkedIn profile here)*
+  - [diabete_prediction](#) *[(https://github.com/fikertekiflu/Diabete_prediction.git)]*
+  - [parkison_prediction](#) *(Insert your LinkedIn profile here)*
+  - [heart_disease prection](#) *(Insert your LinkedIn profile here)*
+Usage
+Running the Application:
+After installing the dependencies, start the development server:
+
+```bash
+npm start
+```
+Open your browser and go to **http://localhost:3000** to access the app.
+
+The homepage offers educational content on HIV, malaria, and monkeypox. For disease predictions, go to the relevant sections to enter health data for diabetes, Parkinson's, and heart disease.
+
+Key Features:
+Educational Resources: Detailed sections on HIV, malaria, and monkeypox to inform users about the symptoms, prevention, and treatment.
+Disease Prediction: Users can enter their health data and receive predictive insights using machine learning models for diabetes, heart disease, and Parkinson’s.
+(Update the path to your screenshot)
+
