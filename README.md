@@ -22,10 +22,10 @@ To set up the project locally, ensure you have the following tools installed:
    ```bash
    git clone https://github.com/fikertekiflu/evoHealthAfrica_portifolio_Project
   
-2, Navigate to the project directory:
-    ```bash
-       cd evohealthafrica-frontend
-       
+2,  Navigate to repository:
+   ```bash
+   cd evo-healthafrica fontend
+    
 3,Install dependencies:
 
 ```bash
