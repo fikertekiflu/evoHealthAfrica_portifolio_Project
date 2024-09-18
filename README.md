@@ -6,7 +6,7 @@ EvoHealthAfrica is an educational platform designed to raise awareness about HIV
 - **Deployed Site**: [(https://frontend-evohealthafrica.onrender.com/)](#) 
 - **Final Project Blog**: [EvoHealthAfrica Blog](#) 
 - **Author(s)**: 
-  - [Fikerte Kiflu](#) *(Insert your LinkedIn profile here)*
+  - [Fikerte Kiflu](#)
 
 ---
 
@@ -37,6 +37,8 @@ The disease prediction models are deployed in a separate repository. To clone an
   - [diabete_prediction](#)   *https://github.com/fikertekiflu/Diabete_prediction.git*
   - [parkison_prediction](#)   *https://github.com/fikertekiflu/parkinsons_prediction.git*
   - [heart_disease prection](#)   *https://github.com/fikertekiflu/heartDisease_prediction.git*
+
+    
 Usage
 Running the Application:
 After installing the dependencies, start the development server:
