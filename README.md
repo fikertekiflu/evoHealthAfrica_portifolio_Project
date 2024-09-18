@@ -18,16 +18,18 @@ To set up the project locally, ensure you have the following tools installed:
 - [npm](https://www.npmjs.com/get-npm)
 
 ### Steps to Install
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/fikertekiflu/evoHealthAfrica_portifolio_Project
-  
-2,  Navigate to repository:
-   ```bash
-   cd evo-healthafrica fontend
-    
+   
+2,Navigate to the repository:
+  ```bash
+      cd evo-healthafrica-frontend 
+```
 3,Install dependencies:
-
 ```bash
 npm install
+
+
 
