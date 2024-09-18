@@ -30,6 +30,8 @@ To set up the project locally, ensure you have the following tools installed:
 3,Install dependencies:
 ```bash
 npm install
-
-
-
+```
+(Optional) Clone the Machine Learning Models:
+The disease prediction models are deployed in a separate repository. To clone and integrate them, follow the steps provided in the ML Model Repo (Insert link to your ML repo here).
+- **repos**: 
+  - [diabete_prediction](#) *(Insert your LinkedIn profile here)*
