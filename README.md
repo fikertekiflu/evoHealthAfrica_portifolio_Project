@@ -34,9 +34,9 @@ npm install
 (Optional) Clone the Machine Learning Models:
 The disease prediction models are deployed in a separate repository. To clone and integrate them, follow the steps provided in the ML Model Repo (Insert link to your ML repo here).
 - **repos**: 
-  - [diabete_prediction](#)   *https://github.com/fikertekiflu/Diabete_prediction.git*
-  - [parkison_prediction](#)   *https://github.com/fikertekiflu/parkinsons_prediction.git*
-  - [heart_disease prection](#)   *https://github.com/fikertekiflu/heartDisease_prediction.git*
+  - [diabete_prediction](#)   *(https://github.com/fikertekiflu/Diabete_prediction.git)*
+  - [parkison_prediction](#)   *(https://github.com/fikertekiflu/parkinsons_prediction.git)*
+  - [heart_disease prection](#)   *(https://github.com/fikertekiflu/heartDisease_prediction.git)*
 
     
 Usage
